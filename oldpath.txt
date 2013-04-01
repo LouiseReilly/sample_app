@@ -1,0 +1,1 @@
+./bundler_stubs:./bundler_stubs:/Users/Reilly/.rvm/gems/ruby-1.9.3-p385@rails3tutorial2ndEd/bin:/Users/Reilly/.rvm/gems/ruby-1.9.3-p385@global/bin:/Users/Reilly/.rvm/rubies/ruby-1.9.3-p385/bin:/Users/Reilly/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin
